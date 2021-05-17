@@ -1,0 +1,2 @@
+# Save git alias 
+# alias full="git add --all && git commit -m "terraform update" && git push"
